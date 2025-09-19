@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Khuara
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Linux project
+- 👋 Hi, I’m @Vishal Kamlapure
+- 👀 I’m interested in Big Data/AI/ML
+- 🌱 I’m currently learning Gen AI
+- 💞️ I’m looking to collaborate on Big Data/AI projects
 - 📫 How to reach me Kamlapurevishal4@gmail.com
 
 <!---
